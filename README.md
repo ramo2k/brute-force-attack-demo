@@ -1,7 +1,3 @@
-Bien sûr, je peux vous aider à créer un fichier `README.md` pour votre programme Flask. Ce fichier décrira les fonctionnalités principales, les instructions d'installation et d'utilisation, ainsi que d'autres détails pertinents. Voici un exemple de contenu pour votre `README.md` :
-
----
-
 # Application Flask de Gestion de Connexion
 
 ## Description
